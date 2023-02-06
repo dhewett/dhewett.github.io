@@ -27,6 +27,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dhewett
 github_username:  dhewett
 
+mastodon:
+	- username: dhewett
+	- instance: mastodon.social
+
 show_excerpts: true
 
 # Build settings
