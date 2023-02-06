@@ -24,6 +24,6 @@ minima:
     - { platform: mastodon, user_url: "https://mastodon.social/@dhewett" }
 
 header_pages:
-  - about.md
+  - about.markdown
   
 show_excerpts: true
