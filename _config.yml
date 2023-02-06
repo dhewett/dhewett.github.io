@@ -23,7 +23,7 @@ email: dom@dominichewett.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Random musings of an Engineer & Entrepreneur
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dhewett.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dhewett
 github_username:  dhewett
 
