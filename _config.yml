@@ -28,8 +28,8 @@ twitter_username: dhewett
 github_username:  dhewett
 
 mastodon:
-	- username: dhewett
-	- instance: mastodon.social
+  - username: dhewett
+  - instance: mastodon.social
 
 show_excerpts: true
 
