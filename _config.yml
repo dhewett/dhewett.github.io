@@ -29,7 +29,7 @@ github_username:  dhewett
 
 mastodon:
   - username: dhewett
-  - instance: mastodon.social
+    instance: mastodon.social
 
 show_excerpts: true
 
