@@ -34,7 +34,6 @@ mastodon:
 show_excerpts: true
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
