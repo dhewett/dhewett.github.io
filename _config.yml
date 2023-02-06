@@ -16,13 +16,14 @@ plugins:
 
 remote_theme: jekyll/minima
 
-minima:
-  header_pages:
-    - about.md
-    
+minima:   
   skin: auto
   social_links:
     - { platform: github,  user_url: "https://github.com/dhewett" }
     - { platform: twitter, user_url: "https://twitter.com/dhewett" }
     - { platform: mastodon, user_url: "https://mastodon.social/@dhewett" }
-  show_excerpts: true
+
+header_pages:
+  - about.md
+  
+show_excerpts: true
