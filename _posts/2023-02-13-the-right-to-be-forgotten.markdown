@@ -5,7 +5,7 @@ date:   2023-02-13 12:11:47 +0000
 categories: update privacy security
 ---
 
-The General Data Protection Regulation (GDPR) is, in my opinion, one of the best things to come out of the European Union in recent years.  Thankfully after the insanity that was Brexit we copied over to the "UK GDPR" in an almost exact copy.
+The General Data Protection Regulation (GDPR) is, in my opinion, one of the best things to come out of the European Union in recent years.  Thankfully after the insanity that was Brexit we copied it over to the "UK GDPR" in an almost exact copy.
 
 Whilst GDPR has it's annoyances, especially for those in customer services who constantly have to repeat the term "passing data protection", for me the "Right to be Forgotten" (or since Article 17 the "Right to Erasure") is something I highly value and simultaneously find incredibly frustrating.
 
@@ -31,4 +31,4 @@ This last category is, sadly probably 50% of the companies I have encountered, I
 
 **Just delete my data.**
 
-Thankfully there are a few websites that generate boiler plate emails for you with the correct contact details for some companies but in 2023 these really should not exist.
+Thankfully there are a few websites that generate boiler plate emails for you with the correct contact details for some companies, but in 2023 these really should not need to exist.
